@@ -8,24 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="918d4ec6-7809-463d-a22c-81bbce9c54d1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/.idea/.rebel.xml.bak" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/.idea/artifacts/selfmanage_idea_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/.idea/artifacts/selfmanage_idea_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/selfmanage_idea.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/src/main/java/com/whg/vo/Emp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/src/main/resources.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/src/main/resources/rebel.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../selfmanage_idea/src/main/webapp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../selfmanage_idea/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../selfmanage_idea/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../selfmanage_idea/out/" />
     <ignored path="$PROJECT_DIR$/../selfmanage_idea/target/" />
@@ -594,12 +577,20 @@
       <workItem from="1523495843650" duration="2498000" />
       <workItem from="1523672124596" duration="610000" />
       <workItem from="1523673317134" duration="1122000" />
-      <workItem from="1523674971247" duration="9196000" />
+      <workItem from="1523674971247" duration="9577000" />
     </task>
+    <task id="LOCAL-00001" summary="first push">
+      <created>1523713600170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523713600170</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16229000" />
+    <option name="totallyTimeSpent" value="16610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -644,6 +635,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first push" />
+    <option name="LAST_COMMIT_MESSAGE" value="first push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
