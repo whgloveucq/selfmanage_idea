@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="selfmanage_idea:war">
-    <output-path>$PROJECT_DIR$/../selfmanage_idea/target</output-path>
+    <output-path>$PROJECT_DIR$/target</output-path>
     <root id="archive" name="selfmanage.war">
       <element id="artifact" artifact-name="selfmanage_idea:war exploded" />
     </root>
